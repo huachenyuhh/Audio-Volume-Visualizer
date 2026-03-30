@@ -1,0 +1,5 @@
+{
+  "name": "Audio Volume Visualizer",
+  "description": "Select an audio file to see real-time volume and frequency visualization.",
+  "requestFramePermissions": []
+}
